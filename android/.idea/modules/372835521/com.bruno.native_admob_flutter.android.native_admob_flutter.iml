@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":native_admob_flutter" external.linked.project.path="/Library/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/native_admob_flutter-1.4.0/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.bruno.native_admob_flutter" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":native_admob_flutter" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="4.2.2" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="4.2.2" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../build/native_admob_flutter/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../../build/native_admob_flutter/intermediates/compile_r_class_jar/debug/R.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/41eaa339e774bbdc0bc95c1fbd195cfc/jetified-flutter_embedding_debug-1.0.0-d3ea636dc5d16b56819f3266241e1f708979c233.jar:/Users/nizwar/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/0f0bf3dce0c94d8859e04dd1876c85cd/jetified-play-services-ads-19.8.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/accee16f21665a2b3a2538fb80d6d8be/jetified-play-services-gass-19.8.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/74603c02ff9f7a53e7b1f733957e02a7/jetified-play-services-ads-lite-19.8.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/3ce0cf12449e84d7ee19bb2f0f065252/jetified-user-messaging-platform-1.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/cc01422139b00f39a95219fe00131505/jetified-play-services-ads-identifier-17.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/a357f923704e86e49b4a63f5a016f724/jetified-play-services-measurement-sdk-api-18.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/a59fc612e40cca27abf2f2a6a852d350/jetified-play-services-tasks-17.1.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/4378a06b6418dda6596e5e41eab5c29a/jetified-play-services-measurement-base-18.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/9a773e45706d42c35d75b766f62d3a3b/jetified-play-services-basement-17.3.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/8b06af6a289837b6bfad8789fdbf3727/fragment-1.1.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/578336b20e5e16766c429ae4b41fdc6f/browser-1.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/0321a7902bbd742efd57f5d1970d809d/legacy-support-core-ui-1.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/d9546f0a0b58899a45b3df1628cbb2e7/viewpager-1.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/6ae766ffddb94af572a87dee8e780c4f/legacy-support-core-utils-1.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/e48b555ea2fc2d069f7610e39acdcbce/loader-1.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/35b456223e4d05295fb490bb453f5026/jetified-activity-1.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/91c26aa1925373289d75e60009beaa8c/work-runtime-2.1.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/03abd9af0c064f8af4dbbe3b06c482be/coordinatorlayout-1.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/5fa66e4ede7f93207194b1302e0613f1/drawerlayout-1.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/339cc5c7a456f7074110663201c99412/slidingpanelayout-1.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/31fe3a5dae9ddf73ac98a70dcb824065/customview-1.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/cfd6e19294f3639b18f69ddfdf45aa5a/swiperefreshlayout-1.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/7081a03cd0ee821809003db4a606a130/asynclayoutinflater-1.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/052c7e9e24977cb9363ab6073fd25dc3/room-runtime-2.1.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/cc8686befca4c57973882e89f4fc5d58/core-1.2.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/dbd5b4494de29468f3f25dbd0880959e/jetified-lifecycle-service-2.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/43a8c2510ae4dbd283fe293fdecc4d7e/lifecycle-runtime-2.2.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/27ea1f50069b8910072d6ad03412ef46/jetified-savedstate-1.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/992cdf9ec326899b3bc98e52f86af916/lifecycle-livedata-2.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/f97d328dae1842171511017799df4fb5/lifecycle-livedata-core-2.0.0-api.jar:/Users/nizwar/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/c4ba29e6ad5008a41a96b9c8d6d9c53a/versionedparcelable-1.1.0-api.jar:/Users/nizwar/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/dfd20a9b257edc302431987fc335c22e/core-runtime-2.0.1-api.jar:/Users/nizwar/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/2c7f8ba519d6f50769d992aa712b43e6/lifecycle-viewmodel-2.1.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/f77df802e5e66e00a02818231b16968d/interpolator-1.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/9437175c69045815b1ab3399d5e8bed0/cursoradapter-1.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/967bfaceb1b2be98b2379facc1175337/documentfile-1.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/cbd28eeda043b659e866fba6b3e74475/localbroadcastmanager-1.0.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/3146588ab059ea041134ff2d23ea61ae/print-1.0.0-api.jar:/Users/nizwar/.gradle/caches/modules-2/files-2.1/androidx.room/room-common/2.1.0/b87765704590bd992ea0d92ac50253a9df7818a0/room-common-2.1.0.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/1fd6132662e567e1b44b75fb677c1c38/sqlite-framework-2.0.1-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/5de14b03afc3b2262cecfffde3783dac/sqlite-2.0.1-api.jar:/Users/nizwar/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/e0f30940ab13ca63e4a1aa5482949802/jetified-kotlin-stdlib-jdk7-1.4.32.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/b773721fc728d01062f25116c6b12c15/jetified-kotlin-stdlib-1.4.32.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/7f8adc3ae0d4c2516f99140a2ce29027/jetified-kotlin-stdlib-common-1.4.32.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/dd0e1d043717c21e5095b41e11d6a988/jetified-annotations-13.0.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/467f4b4961238bddd70f3f4e1cd8d95a/jetified-play-services-ads-base-19.8.0-api.jar:/Users/nizwar/.gradle/caches/transforms-2/files-2.1/119c7f2fb34642e4b99db1f122b7ac27/jetified-listenablefuture-1.0.jar:/Users/nizwar/Library/Android/sdk/platforms/android-30/android.jar:/Users/nizwar/Library/Android/sdk/build-tools/30.0.2/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="native_admob_flutter_debug" />
+          <option name="jvmTarget" value="1.6" />
+          <option name="languageVersion" value="1.4" />
+          <option name="apiVersion" value="1.4" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file:///Library/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/native_admob_flutter-1.4.0/android/src/main/res;file:///Library/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/native_admob_flutter-1.4.0/android/src/debug/res;file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/res/rs/debug;file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file:///Library/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/native_admob_flutter-1.4.0/android/src/androidTest/res;file:///Library/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/native_admob_flutter-1.4.0/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../build/native_admob_flutter/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../build/native_admob_flutter/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file:///Library/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/native_admob_flutter-1.4.0/android">
+      <sourceFolder url="file:///Library/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/native_admob_flutter-1.4.0/android/src/main/kotlin" isTestSource="false" />
+      <excludeFolder url="file:///Library/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/native_admob_flutter-1.4.0/android/.gradle" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/aidl_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/ap_generated_sources/debugUnitTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/renderscript_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/res/resValues/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/res/resValues/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/res/resValues/debug" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/res/rs/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/native_admob_flutter/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 30 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: io.flutter:flutter_embedding_debug:1.0.0-d3ea636dc5d16b56819f3266241e1f708979c233" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.room:room-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.4.32" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.4.32" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.32" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.guava:listenablefuture:1.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads:19.8.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-gass:19.8.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-lite:19.8.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.ump:user-messaging-platform:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-identifier:17.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-sdk-api:18.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-tasks:17.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-base:18.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-basement:17.3.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.browser:browser:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.work:work-runtime:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.room:room-runtime:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-service:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.print:print:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.sqlite:sqlite-framework:2.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.sqlite:sqlite:2.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-base:19.8.0@aar" level="project" />
+  </component>
+</module>

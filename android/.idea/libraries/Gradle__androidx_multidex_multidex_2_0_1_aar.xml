@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.multidex:multidex:2.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf0cb0c0d90682c7720a45d272051754/multidex-2.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b2e9c404a8f0a08b7362f3a02c7be56/multidex-2.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b2e9c404a8f0a08b7362f3a02c7be56/multidex-2.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b2e9c404a8f0a08b7362f3a02c7be56/multidex-2.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/abbc810d8d2c614dddec819027183c92/transformed/multidex-2.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cbeafa33ccd7be9d7efdb8df99204f5a/transformed/multidex-2.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cbeafa33ccd7be9d7efdb8df99204f5a/transformed/multidex-2.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cbeafa33ccd7be9d7efdb8df99204f5a/transformed/multidex-2.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f6ed5125f4ea26def7dc001c126bb4ce/multidex-2.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7b080aa8bdb83db4c6967215c50df9f7/multidex-2.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9715b17d7b56d154d41dd6bc0a2cd72d/multidex-2.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9715b17d7b56d154d41dd6bc0a2cd72d/multidex-2.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9715b17d7b56d154d41dd6bc0a2cd72d/multidex-2.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.multidex/multidex/2.0.1/f3f4d0d014301dc9491afc5d4a0a91a385e32752/multidex-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
